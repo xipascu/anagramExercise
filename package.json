@@ -1,0 +1,14 @@
+{
+  "name": "anagram.instructions",
+  "version": "1.0.0",
+  "description": "Emarsys exercise",
+  "main": "run.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
